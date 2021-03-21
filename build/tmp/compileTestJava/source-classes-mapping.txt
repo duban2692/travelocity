@@ -1,0 +1,4 @@
+com/co/travelocity/web/runner/ReservaHotel.java
+ com.co.travelocity.web.runner.ReservaHotel
+com/co/travelocity/web/stepdefinition/ReservaHotel.java
+ com.co.travelocity.web.stepdefinition.ReservaHotel
